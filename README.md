@@ -26,4 +26,4 @@ Hi all, <br> This code base is my attempt to give basic but enough detailed tuto
         imageClassification.start(retrain=False)
 ```
 
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
