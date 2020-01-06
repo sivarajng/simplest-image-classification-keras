@@ -15,6 +15,7 @@ Hi all, <br> This code base is my attempt to give basic but enough detailed tuto
 <hr>
 
 ### You can find about the detailed implementation, usage  and tutorial at my below Medium Post.
+https://medium.com/@sivarajng/simplest-image-classification-in-keras-python-tensorflow-ea956b12bb42
 
 ```py
     # True : To Re-Train Model with New set of Images and Labels
